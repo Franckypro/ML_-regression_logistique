@@ -1,8 +1,5 @@
 # ML_-regression_logistique
 
-Voici un exemple de fichier `README.md` en français avec des emojis pour rendre le tout plus dynamique :
-
-```markdown
 # 📊 Analyse des Données et Modélisation Logistique
 
 Ce projet vise à analyser un jeu de données provenant des réseaux sociaux et à prédire si une personne achètera un produit en fonction de son âge et de son salaire estimé. Le modèle utilisé est la régression logistique.
